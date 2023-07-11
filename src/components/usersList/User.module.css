@@ -1,0 +1,13 @@
+li {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 1rem;
+  background-color: gainsboro;
+  margin-bottom: 1px;
+  text-align: center;
+}
+.user {
+  margin: 1rem auto;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 0 2px;
+}
+.list {
+  width: 37%;
+  padding: 1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+  text-align: center;
+  margin: 3rem auto;
+}
